@@ -1,2 +1,3 @@
 def ms():
-    return 'hhhh'
+    if True:
+    	return 'hhhh'
