@@ -1,3 +1,5 @@
 def ms():
     if True:
-    	return 'hhhh'
+    	return 'oooo'
+    else:
+        pass
